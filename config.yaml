@@ -4,7 +4,7 @@
 id_admin: [0]
 # ID or list of IDs of the admins; any admin will be able to access a number of functions by contacting the bot on Telegram.
 
-token: 'insert-your-token-here'
+token: '5782497998:AAFdx2dX3yeiyDIcoJwPa_ghY2h_dozEh_E'
 # See: https://core.telegram.org/bots#6-botfather
 
 probability_setting: 1
